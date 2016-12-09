@@ -1,0 +1,16 @@
+{
+  "name": "import-js",
+  "version": "1.0.0",
+  "description": "minimal grunt plugin to import javascript files across a project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditibtp/import-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Aditibtp/import-js#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.5.0"
+  }
+}
